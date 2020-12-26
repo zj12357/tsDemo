@@ -1,0 +1,28 @@
+.topics_page {
+  padding-top: 0.4rem;
+  font-size: 0.16rem;
+}
+
+.topics_page_pull_view_wrap {
+  position: relative;
+}
+
+.topics_page_pull_status_div {
+  position: absolute;
+  top: -1rem;
+  left: 0;
+  right: 0;
+  padding-top: 0.6rem;
+  height: 1rem;
+  line-height: 0.4rem;
+  text-align: center;
+  width: 100%;
+  background-color: #EAEAEA;
+}
+
+.load_more_info {
+  text-align: center;
+  height: 0.4rem;
+  line-height: 0.4rem;
+  width: 100%;
+}

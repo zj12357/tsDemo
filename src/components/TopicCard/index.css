@@ -1,0 +1,67 @@
+.topic_card {
+  width: 100%;
+  padding: 0.1rem 0.1rem;
+  border-bottom: 0.01rem solid #d5dbdb;
+}
+
+.topic_card_title {
+  line-height: 1.5;
+  font-size: 0.16rem;
+  margin: 0;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.topic_card_title_content {
+  color: #2c3e50;
+}
+
+.topic_card_title_tab {
+  padding: 0.01rem 0.06rem;
+  margin-right: 0.1rem;
+  font-size: 0.14rem;
+  font-weight: normal;
+  border-radius: 0.03rem;
+  color: #fff;
+}
+
+.topic_card_title_tab.top {
+  background: #e74c3c;
+}
+
+.topic_card_title_tab.ask {
+  background: #3498db;
+}
+
+.topic_card_title_tab.job {
+  background: #9b59b6;
+}
+
+.topic_card_title_tab.share {
+  background: #1abc9c;
+}
+
+.topic_card_title_tab.good {
+  background: #e67e22;
+}
+
+.topic_card_avatar {
+  width: 0.4rem;
+  height: 0.4rem;
+  margin: 0.15rem 0.05rem 0.15rem 0;
+  border-radius: 0.4rem;
+  float: left;
+}
+
+.topic_card_other {
+  font-size: 0.13rem;
+  width: 100%;
+  height: 0.4rem;
+  line-height: 0.2rem;
+  color: #34495e;
+}
+
+.topic_card_other b {
+  color: #9e78c0;
+}

@@ -1,0 +1,35 @@
+.recent_card {
+  width: 100%;
+  padding: 0.1rem 0.1rem;
+  border-bottom: 0.01rem solid #d5dbdb;
+}
+
+.recent_card a {
+  color: #2c3e50;
+}
+
+.recent_card_avatar {
+  width: 0.46rem;
+  height: 0.46rem;
+  margin-right: 0.1rem;
+  border-radius: 50%;
+  float: left;
+}
+
+.recent_card_title {
+  line-height: 1.5;
+  margin: 0 0 0.1rem;
+  font-size: 0.15rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.recent_card_other {
+  font-size: 0.13rem;
+}
+
+.recent_card_other b{
+  color: #80bd01;
+  font-weight: 400;
+}
